@@ -1,0 +1,54 @@
+
+body {
+    font-family: "Poppins";
+    background: #ADD8E6;
+    margin: 0px;
+  /*   font-family: "Arial"; */
+  }
+  
+  h1 {
+  /*   font-weight: 900; */
+    color: #3E4E7C;
+  }
+  
+  button {
+    padding: 10px 30px;
+    background: #3E4E7C;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+  /*   border-width: 1px; */
+  }
+  button:hover {
+    background: #19191A;
+  }
+  
+  .med-img {
+    width: 16vw;
+  }
+  
+    .intro {
+      padding: 15px 30px;
+      margin: auto;
+      max-width: 600px;
+  
+    }
+    .card {
+      background: #ffffff;
+      border-radius: 15px;
+      padding: 30px 50px;
+    }
+  
+  .main-header {
+    height: 50vh;
+    background: url("https://w0.peakpx.com/wallpaper/144/139/HD-wallpaper-the-great-wave-off-kanagawa-japanese-wave.jpg");
+    background-position: middle-bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .img-grid {
+    display: flex;
+    padding-bottom: 20px;
+  }
